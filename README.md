@@ -85,13 +85,22 @@ Creating bespoke business applications leveraging the Frappe Framework's powerfu
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ubaid-ai&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubaid-ai&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ubaid-ai&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ubaid-ai&theme=radical&hide_border=false)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaid-ai&show_icons=true&theme=radical&layout=compact&hide_border=false&langs_count=8" alt="Top Languages" height="180"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ubaid-ai&theme=react-dark&hide_border=false&area=true" alt="Contribution Graph" height="180"/>
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ubaid-ai&layout=compact&theme=radical&hide_border=false&langs_count=10)
+
+</div>
+
+<div align="center">
+
+[![Ubaid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ubaid-ai&theme=react-dark&hide_border=true&area=true)](https://github.com/ubaid-ai)
+
 </div>
 
 ---
@@ -99,7 +108,9 @@ Creating bespoke business applications leveraging the Frappe Framework's powerfu
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ubaid-ai&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ubaid-ai&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
