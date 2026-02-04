@@ -60,10 +60,12 @@ Creating bespoke business applications leveraging the Frappe Framework's powerfu
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Databases**
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### **AI/ML & Data Science**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -83,12 +85,13 @@ Creating bespoke business applications leveraging the Frappe Framework's powerfu
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ubaid-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubaid-ai&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ubaid-ai&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubaid-ai&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ubaid-ai&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaid-ai&show_icons=true&theme=radical&layout=compact&hide_border=false&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ubaid-ai&theme=react-dark&hide_border=false&area=true" alt="Contribution Graph" height="180"/>
 </div>
 
 ---
@@ -96,7 +99,7 @@ Creating bespoke business applications leveraging the Frappe Framework's powerfu
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ubaid-ai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ubaid-ai&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -108,11 +111,13 @@ Creating bespoke business applications leveraging the Frappe Framework's powerfu
     <td align="center" width="50%">
       <h3>🔧 ERPNext & Frappe Development</h3>
       <ul align="left">
-        <li>Custom DocType creation & customization</li>
-        <li>Server-side & client-side scripting</li>
-        <li>API integrations & webhooks</li>
-        <li>Print formats & report builder</li>
-        <li>Multi-tenant SaaS architecture</li>
+        <li><strong>Hotel Management System</strong> - Built comprehensive hospitality solution for KSA region with booking, POS, and housekeeping modules</li>
+        <li><strong>Fleet Management System</strong> - Developed complete vehicle tracking, maintenance scheduling, and driver management solution</li>
+        <li><strong>Multi-tenant SaaS Architecture</strong> - Converted ERPNext into scalable SaaS platform with tenant isolation and custom branding</li>
+        <li><strong>Custom Business Features</strong> - Engineered bespoke modules tailored to specific industry requirements</li>
+        <li>Advanced server-side & client-side scripting</li>
+        <li>API integrations, webhooks & third-party connectors</li>
+        <li>Custom print formats, reports & dashboards</li>
       </ul>
     </td>
     <td align="center" width="50%">
